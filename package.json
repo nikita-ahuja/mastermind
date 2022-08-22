@@ -1,0 +1,12 @@
+{
+  "name": "ac2-code-challenge-mastermind-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "src": "^1.1.2"
+  }
+}
